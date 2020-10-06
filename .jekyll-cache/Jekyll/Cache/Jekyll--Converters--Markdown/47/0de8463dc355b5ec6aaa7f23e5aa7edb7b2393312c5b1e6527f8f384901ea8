@@ -1,0 +1,74 @@
+I"|<div id="indexheader"></div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-2 about-nav">
+            <h3 class="font-weight-bold spanborder"><span>Submissions</span></h3>
+            <h4 class="about-nav-current-page"><span>The Editors</span></h4>
+            <a href="#editorial-team" class="about-nav-link"><h6><span>Editorial Team</span></h6></a>
+            <a href="#submission-editor-team" class="about-nav-link"><h6><span>Submission Editor Team</span></h6></a>
+            <a href="#it-design-team" class="about-nav-link"><h6><span>IT &amp; Design Team</span></h6></a>
+            <a href="#social-media-team" class="about-nav-link"><h6><span>Social Media Team</span></h6></a>
+        </div>
+        <div class="col-md-8">
+            <a class="anchor" id="editorial-team"></a>
+            <h3 class="font-weight-bold spanborder"><span>Submission Guidelines</span></h3>
+            <p>
+                The University of Manitoba Journal of Medicine (UMJM) is a student-run, peer-reviewed medical journal. We seek to support students’ scholarship, innovation, and critical literacy in medicine. The UMJM welcomes submissions ranging from original research and review articles to commentaries, opinion pieces, and biographies. Overall, we strive to provide students with the opportunity to foster skills in academic writing and publish on emerging topics in medicine. In doing so, the UMJM may serve as a tool for learning as well as discussion for important topics relevant to our readership.
+            </p>
+            <h2><span>Author Eligibility</span></h2>
+            <p>
+                We welcome submissions from all students in the University of Manitoba Rady Faculty of Health Sciences as well as from external authors. This includes but is not limited to students and faculty from medical schools other than the Max Rady College of Medicine. Preference is given to student authors.
+            </p>
+            <h2><span>Article Eligibility</span></h2>
+            <p>
+                All submissions to the UMJM should be original works that have not been previously published or under consideration for publication in another journal. Manuscripts should be written for a general medical audience and reference using Vancouver style. Submissions should be coherent, well-written, and use proper mechanics. Where applicable, articles must use appropriate methodology, demonstrate scientific rigour, and adhere to proper ethical conduct.
+            </p>
+            <h4><span>Format</span></h4>
+            <p>The UMJM accepts articles in the following formats:</p>
+            <ul>
+                <li>Original research (full-length or research letters/interim reports)</li>
+                <li>Reviews (narrative, literature, systematic</li>
+                <li>Case/clinical reports</li>
+                <li>Perspective pieces/commentaries/essays</li>
+                <li>Interviews</li>
+                <li>Opinion pieces, “news and views”, etc.</li>
+                <li>Letter to the editor</li>
+                <li>Medical book reviews</li>
+                <li>Medical biography</li>
+            </ul>
+            <p>If you have an idea for a piece in a format other than those listed above, we would be happy to consider it. Please e-mail the Co-Editors in Chief at umjmed@gmail.com with your idea and they will get back to you.</p>
+            <h4><span>Topics</span></h4>
+            <p>In general, the UMJM accepts articles that address clinically relevant ideas in medical practice. These include but are not limited to:</p>
+            <ul>
+                <li>Medical science</li>
+                <li>Clinical or surgical medicine</li>
+                <li>Epidemiology</li>
+                <li>Social determinants of health</li>
+                <li>Global health</li>
+                <li>Technology in medicine</li>
+            </ul>
+            <p>The UMJM also accepts manuscripts that examine themes topical and/or relevant to medical students. These include but are not limited to:</p>
+            <ul>
+                <li>COVID-19</li>
+                <li>Medical education</li>
+                <li>Historical analysis/history of medicine</li>
+                <li>Medical ethics/philosophy</li>
+                <li>Sociology of medicine</li>
+                <li>Medical humanities</li>
+                <li>Narrative medicine</li>
+            </ul>
+            <h2><span>Ethics</span></h2>
+            <p>
+            The UMJM adheres to "Ethical Considerations in the Conduct and Reporting of Research" set forth by the International Committee of Medical Journal Editors where applicable:
+            </p>
+            <h4><span>Informed Consent</span></h4>
+            <p>
+                Patients have a right to privacy that should not be violated without informed consent. Identifying information, including names, initials, or hospital numbers, should not be published in written descriptions, photographs, or pedigrees unless the information is essential for scientific purposes and the patient (or parent or guardian) gives written informed consent for publication. Informed consent for this purpose requires that an identifiable patient be shown the manuscript to be published. Authors should disclose to these patients whether any potential identifiable material might be available via the Internet as well as in print after publication.
+            </p>
+            <p>
+
+            </p>
+        </div>
+    </div>
+</div>
+:ET

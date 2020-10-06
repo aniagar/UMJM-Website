@@ -1,0 +1,29 @@
+I"ß<div id="indexheader"></div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-2 about-nav">
+            <h3 class="font-weight-bold spanborder"><span>Submissions</span></h3>
+            <a href="/aboutjournal/" class="about-nav-link"><h4><span>The Journal</span></h4></a>
+            <h4 class="about-nav-current-page"><span>The Editors</span></h4>
+            <a href="#editorial-team" class="about-nav-link"><h6><span>Editorial Team</span></h6></a>
+            <a href="#submission-editor-team" class="about-nav-link"><h6><span>Submission Editor Team</span></h6></a>
+            <a href="#it-design-team" class="about-nav-link"><h6><span>IT &amp; Design Team</span></h6></a>
+            <a href="#social-media-team" class="about-nav-link"><h6><span>Social Media Team</span></h6></a>
+        </div>
+        <div class="col-md-8">
+            <h3 class="font-weight-bold spanborder"><span>Submission Guidelines</span></h3>
+            <p>
+                El
+            </p>
+            <h2><span>Author Eligibility</span></h2>
+            <p>
+                test
+            </p>
+            <h2><span>Article Eligibility</span></h2>
+            <p>
+                test
+            </p>
+        </div>
+    </div>
+</div>
+:ET
