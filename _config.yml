@@ -9,7 +9,7 @@ email: ''
 mailchimp-list: ''
 
 include: ["_pages"]
-permalink: /:title/
+permalink: /UMJM-Website/:title/
 
 # Plugins
 plugins: 
