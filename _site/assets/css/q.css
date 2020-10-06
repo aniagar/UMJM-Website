@@ -1,0 +1,93 @@
+/*
+    New Formatting by Q
+*/
+#indexheader {
+    width: 100%;
+    height: 350px;
+    margin-top: 0px;
+    margin-bottom: 75px;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(../images/pano3.jpg);
+    background-clip: border-box;
+    background-repeat: no-repeat;
+    background-position: center 60%;
+    background-size: 2000px;
+}
+#headerimg {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:100px;
+    height:150px;
+}
+.np-2 {
+    border-left:4px solid lightskyblue;
+    padding-left:15px;
+    min-height:100px;
+}
+/* About Nav */
+.about-nav {
+    position:sticky;
+    top:93.3px;
+    min-width: 223.66px;
+    margin-bottom: 32px;
+    height: 100%;
+}
+.about-nav-noscroll {
+    min-width: 223.66px;
+    margin-bottom: 32px;
+    height: 100%;
+}
+.about-nav-link {
+    color:grey;
+}
+.about-nav-link:hover {
+    color:black;
+}
+.about-nav-current-page {
+    color: black;
+}
+
+/*About Editors Page Local Links*/
+.about-nav-link h6 {
+    margin-left: 20px;
+    opacity: 0;
+    -webkit-transition: opacity 0.5s ease-in;
+    -moz-transition: opacity 0.5s ease-in;
+    -ms-transition: opacity 0.5s ease-in;
+    -o-transition: opacity 0.5s ease-in;
+    transition: opacity 0.5s ease-in;
+}
+.about-nav-link.load h6{
+    opacity: 1;
+}
+a.anchor {
+    display: block;
+    position: relative;
+    top: -93.3px;
+    visibility: hidden;
+}
+/* Editor Page */
+.editor-box {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 220px;
+    margin-bottom:10px;
+}
+.editor-pic {
+    height:200px;
+    min-width:200px;
+}
+.editor-pic img {
+    height:200px;
+    min-width:200px;
+}
+.editor-info {
+	display: block
+}
+.editor-info h1,h2,h3,h4,h5,h6,h7,p {
+    margin-top: 0.75rem;
+}
